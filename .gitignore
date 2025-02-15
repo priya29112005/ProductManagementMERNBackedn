@@ -1,0 +1,28 @@
+# Node modules
+node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build artifacts
+dist
+build
+
+# OS-specific files
+.DS_Store
+
+# IDE-specific files
+.vscode
+.idea
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Debugging files
+*.swp
